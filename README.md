@@ -1,2 +1,2 @@
 # Employees-database
-A small system to store , retrieve, add and delete employees' information
+A basic system to store , retrieve, add and delete employees' information
